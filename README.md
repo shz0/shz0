@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shz0
-- 👀 I’m interested in coding Python
-- 🌱 I’m currently learning Python, but just get started
+- 👀 I’m interested in coding Python, JS, Golang
+- 🌱 I’m currently learning the Basics and I'm just trying to figure out which direction I'm going
 - 💞️ I’m looking to collaborate on with of all of you whoever wants to help or need help :)
-- 📫 How to reach me at Insta: @shz0mania
 
 <!---
 shz0/shz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
